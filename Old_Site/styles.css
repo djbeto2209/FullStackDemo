@@ -1,0 +1,36 @@
+/*************************Tag Selector********************************/
+body {
+  background-color: white;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width: 6px;
+  height: 0px;
+  width: 10%;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+img:hover{
+  background-color: gold;
+}
+/*************************Class********************************/
+/* Classes are not unique*/
+/* .classname {
+
+    }*/
+/*************************IDS********************************/
+/* IDs are unique*/
+
+#name {
+  color: black;
+}
