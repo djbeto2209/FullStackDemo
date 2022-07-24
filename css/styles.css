@@ -1,5 +1,5 @@
 body {
-  background-color: powderblue;
+  background-color: white;
 }
 
 hr {
@@ -9,4 +9,12 @@ hr {
   border-width: 6px;
   height: 0px;
   width: 10%;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
 }
